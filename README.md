@@ -9,8 +9,7 @@ The code provided in this repository can be used to study and model rhythmic ani
 ## Repository Contents
 - `data.csv`: Contains general information about the recorded animals.
 - `nights.csv`: Contains detailed information about the behaviour of every recording. 
-- `code.py`: Contains the stochastic models and related code.
-- `README.md`: This file.
+- `code.ipynb`: Contains the stochastic models and related code.
 
 ## Requirements
 - Python 3.x
