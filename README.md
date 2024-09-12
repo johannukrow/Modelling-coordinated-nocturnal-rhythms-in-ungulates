@@ -1,5 +1,8 @@
 # Modelling coordinated nocturnal rhythms in ungulates
 
+
+[![DOI](https://zenodo.org/badge/842375016.svg)](https://zenodo.org/doi/10.5281/zenodo.13752710)
+
 ## Overview
 This repository contains the code and data used for the paper titled "Modelling coordinated nocturnal rhythms in ungulates". The study focuses on analyzing the nocturnal behavior of ungulates in zoos, with a particular emphasis on the regularity and synchronization of standing-lying cycles.
 
